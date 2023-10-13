@@ -3,6 +3,7 @@
 
 # Raw data
 data/raw/
+data/preprocess/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
