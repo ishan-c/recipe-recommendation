@@ -32,6 +32,7 @@ dependencies:
   - certifi=2023.7.22=py311haa95532_0
   - cffi=1.15.1=py311h2bbff1b_3
   - charset-normalizer=2.0.4=pyhd3eb1b0_0
+  - click=8.0.4=py311haa95532_0
   - colorama=0.4.6=py311haa95532_0
   - comm=0.1.2=py311haa95532_0
   - contourpy=1.0.5=py311h59b6b97_0
@@ -58,6 +59,7 @@ dependencies:
   - ipywidgets=8.0.4=py311haa95532_0
   - jedi=0.18.1=py311haa95532_1
   - jinja2=3.1.2=py311haa95532_0
+  - joblib=1.2.0=py311haa95532_0
   - jpeg=9e=h2bbff1b_1
   - json5=0.9.6=pyhd3eb1b0_0
   - jsonschema=4.17.3=py311haa95532_0
@@ -116,6 +118,7 @@ dependencies:
   - nbconvert=6.5.4=py311haa95532_0
   - nbformat=5.9.2=py311haa95532_0
   - nest-asyncio=1.5.6=py311haa95532_0
+  - nltk=3.8.1=py311haa95532_0
   - notebook=6.5.4=py311haa95532_1
   - notebook-shim=0.2.2=py311haa95532_0
   - numexpr=2.8.7=py311h1fcbade_0
@@ -166,6 +169,7 @@ dependencies:
   - qtpy=2.2.0=py311haa95532_0
   - qtwebkit=5.212=h2bbfb41_5
   - re2=2022.04.01=hd77b12b_0
+  - regex=2023.10.3=py311h2bbff1b_0
   - requests=2.31.0=py311haa95532_0
   - rfc3339-validator=0.1.4=py311haa95532_0
   - rfc3986-validator=0.1.1=py311haa95532_0
@@ -181,10 +185,12 @@ dependencies:
   - stack_data=0.2.0=pyhd3eb1b0_0
   - tbb=2021.8.0=h59b6b97_0
   - terminado=0.17.1=py311haa95532_0
+  - textblob=0.15.3=py_0
   - tinycss2=1.2.1=py311haa95532_0
   - tk=8.6.12=h2bbff1b_0
   - toml=0.10.2=pyhd3eb1b0_0
   - tornado=6.3.2=py311h2bbff1b_0
+  - tqdm=4.65.0=py311h746a85d_0
   - traitlets=5.7.1=py311haa95532_0
   - typing-extensions=4.7.1=py311haa95532_0
   - typing_extensions=4.7.1=py311haa95532_0
