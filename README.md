@@ -41,9 +41,16 @@ Please see the environment.yml file for the current, complete set of dependencie
 
 ## Methodology
 
+The project will consist of a number of stages on the way to developing the recipe recommendation system:
 
-## Completed Work
+1. **Data Exploration**: Initial stages involve exploratory data analysis (EDA) using Pandas and Seaborn. This phase is crucial for understanding the dataset, identifying key variables, and uncovering potential relationships and patterns.
 
+2. **Feature Engineering** (In Progress): Based on insights gained from EDA, the next step involves feature engineering. This process will include selecting relevant attributes and transforming them to a format suitable for modeling.
 
-## Future Work
+3. **Model Development** (In Progress): The core of the project will be the development of a recommendation model using Pytorch and scikit-learn. Several candidate models will be examined in order to explore various methods.
+
+4. **Deployment** (Planned): The final goal is to deploy the model on AWS, enabling real-time suggestions for users and potentially updated interactions/retraining.
+
+Each stage of the project builds upon the previous ones, ensuring a systematic and thorough approach to developing the recommendation system.
+
 
